@@ -1,3 +1,4 @@
-# Repositorio1
+# Repositorio2
 
-este repositorio esta echo en local es un proceso lleno de pasos comandos , 
+este repositorio no esta echo de local , si no directamente en github
+es un proceso llweno de pasos
